@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolas-Espel
 - 👀 I’m interested in cooking, hiking, playing video games with my girlfriend.
-- 🌱 I’m currently learning JavaScript, working towards becomeing a well-rounded front-end developer.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript, working towards becomeing a well-rounded front-end developer.
 - 💞️ I’m looking to collaborate on any front end projects that way I can begin to apply my fundamentals into more real world applications.
 - 📫 How to reach me email me at: nicolasespelcoding@gmail.com
 
